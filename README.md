@@ -14,7 +14,7 @@ Have a mod on the CMAN? Add one of these to your forum page so that everyone kno
 
 ![Badge](https://img.shields.io/badge/CMAN-Indexed-green.svg?style=plastic)
 
-Proudly supporting [#StopModReposts](http://www.stopmodreposts.org)!
+Proudly supporting [#StopModReposts](https://stopmodreposts.org/)!
 
 
 #Issue tracker
